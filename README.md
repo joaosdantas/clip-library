@@ -280,8 +280,8 @@ SUPABASE_SERVICE_ROLE_KEY=
 
 ## 🤝 Contributing
 
-Clip Library is currently a private, early-stage project. The repo is not open
-for external contributions yet.
+Clip Library is a public, early-stage project, but external contributions are
+not open yet.
 
 If you are part of the project team, keep changes small and focused, follow the
 architecture rules (Supabase as the primary backend, processing only in the
@@ -292,5 +292,7 @@ unrelated files.
 
 ## 📄 License
 
-No open-source license has been defined. The project is currently **private and
-proprietary**. All rights reserved.
+No open-source license has been defined yet. The repository is public for
+viewing, but without a license file the code remains **all rights reserved** —
+you may look, but not copy, modify, or reuse it. A license will be chosen as the
+project matures.
