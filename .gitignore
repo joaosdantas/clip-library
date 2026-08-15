@@ -12,6 +12,14 @@ dist
 dist-ssr
 *.local
 
+# Worker
+worker/.venv/
+worker/.env
+worker/downloads/*
+!worker/downloads/.gitkeep
+__pycache__/
+*.pyc
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
